@@ -1,1 +1,0 @@
-readFITS(file="sex.fits", )
